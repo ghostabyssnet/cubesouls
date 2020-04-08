@@ -1,0 +1,2 @@
+# cubesouls
+Manifesto do Cubesouls
